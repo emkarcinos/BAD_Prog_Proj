@@ -3,7 +3,7 @@ import getpass
 
 HOST="localhost"
 DATABASE="Fabryka_Sprzetu_IT"
-SQL=("SELECT * FROM Produkt;")
+SQL="SELECT * FROM Produkt;"
 
 
 print("Welcome to MySQL connector. \nYou are trying to connect to host: " + HOST + "\nType your credentials to connect:")
