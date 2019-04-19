@@ -8,7 +8,7 @@
 #define DATABASE "fabryka_sprzetu_it"
 #define SQL "SELECT * FROM PC;"
 
-#define COL_W 15 //if some table contetnts have too much characters/numbers in it, change this value.
+#define COL_W 15 //if some table contetnts have too many characters/numbers in it, change this value.
 
 using namespace std;
 using namespace pqxx;
