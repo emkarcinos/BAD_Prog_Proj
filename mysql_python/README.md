@@ -5,6 +5,6 @@ pip install mysql_connector
 ```
 
 ## Variables:
-- HOST - address of the MySQL server,
+- HOST - address of your MySQL server,
 - DATABASE - database on the server you wish to operate on,
 - SQL - your query.
